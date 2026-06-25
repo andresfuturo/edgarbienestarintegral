@@ -22,13 +22,13 @@ git init
 git add .
 git commit -m "Initial commit - HGW Landing Page"
 git branch -M main
-git remote add origin https://github.com/crearteconscientepro-sketch/edgarbienstarintegral.git
+git remote add origin https://github.com/andresfuturo/edgarbienestarintegral.git
 git push -u origin main
 ```
 
 ### Paso 2: Activar GitHub Pages
 
-1. Ve a tu repositorio: https://github.com/crearteconscientepro-sketch/edgarbienstarintegral
+1. Ve a tu repositorio: https://github.com/andresfuturo/edgarbienestarintegral
 2. Haz clic en **Settings** (Configuración)
 3. En el menú lateral, haz clic en **Pages**
 4. En **Source**, selecciona **Deploy from a branch**
@@ -39,7 +39,7 @@ git push -u origin main
 
 GitHub Pages desplegará tu sitio en unos minutos. La URL será:
 ```
-https://crearteconscientepro-sketch.github.io/edgarbienstarintegral/
+https://andresfuturo.github.io/edgarbienestarintegral/
 ```
 
 ## 📁 Estructura del Proyecto
