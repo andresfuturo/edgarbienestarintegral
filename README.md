@@ -13,12 +13,7 @@ Landing page moderna para HGW (Health Green World) - Productos naturales y orgá
 
 ## 🚀 Despliegue en GitHub Pages
 
-### Paso 1: Crear repositorio en GitHub
-
-1. Ve a [GitHub](https://github.com) y crea un nuevo repositorio llamado `hgw-landing`
-2. No inicialices con README (ya tenemos uno)
-
-### Paso 2: Subir el proyecto
+### Paso 1: Subir el proyecto al repositorio existente
 
 Abre una terminal en la carpeta del proyecto y ejecuta:
 
@@ -27,24 +22,24 @@ git init
 git add .
 git commit -m "Initial commit - HGW Landing Page"
 git branch -M main
-git remote add origin https://github.com/TU_USUARIO/hgw-landing.git
+git remote add origin https://github.com/crearteconscientepro-sketch/edgarbienstarintegral.git
 git push -u origin main
 ```
 
-### Paso 3: Activar GitHub Pages
+### Paso 2: Activar GitHub Pages
 
-1. Ve a tu repositorio en GitHub
+1. Ve a tu repositorio: https://github.com/crearteconscientepro-sketch/edgarbienstarintegral
 2. Haz clic en **Settings** (Configuración)
 3. En el menú lateral, haz clic en **Pages**
 4. En **Source**, selecciona **Deploy from a branch**
 5. En **Branch**, selecciona **main** y la carpeta **/(root)**
 6. Haz clic en **Save**
 
-### Paso 4: Esperar el despliegue
+### Paso 3: Esperar el despliegue
 
 GitHub Pages desplegará tu sitio en unos minutos. La URL será:
 ```
-https://TU_USUARIO.github.io/hgw-landing/
+https://crearteconscientepro-sketch.github.io/edgarbienstarintegral/
 ```
 
 ## 📁 Estructura del Proyecto
